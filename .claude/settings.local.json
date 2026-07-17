@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf \"d:/heimadianping/dianping-master/.idea\")"
+    ],
+    "additionalDirectories": [
+      "d:\\heimadianping\\dianping-master\\.idea"
+    ]
+  }
+}
